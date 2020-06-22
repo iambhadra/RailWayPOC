@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RailwayBooking</string>
+    <string name="train_list"><u><i>Train List</i></u></string>
+</resources>
